@@ -7,14 +7,7 @@
     {
       "name": "Canales y Listas Externas",
       "image": "http://ejemplo.com/icono_grupo.png",
-      "stations": [
-        {
-          "name": "Acceder a Mi Lista M3U",
-          "image": "http://ejemplo.com/icono_canal.png",
-          "url": "https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/pruebam3u1",
-          "import": false
-        }
-      ]
+      "url": "https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/pruebam3u1",
     }
-  ]
-}
+    ]
+    }
