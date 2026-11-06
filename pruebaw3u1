@@ -1,13 +1,26 @@
 {
-  "name": "Mi Lista Principal",
-  "author": "Tu Nombre",
-  "image": "http://ejemplo.com/icono.png",
-  "url": "http://ejemplo.com/milista.w3u",
-  "groups": [
-    {
-      "name": "Canales y Listas Externas",
-      "image": "http://ejemplo.com/icono_grupo.png",
-      "url": "https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/pruebam3u1",
-    }
-    ]
-    }
+"name": "Mi lista",
+"author": "anonimo",
+"parental": "true",
+"image": "https://i.imgur.com/ApcbwHZ.png",
+"info": "w3ubin.tumblr.com",
+"groups": [
+{
+"name": "MEGA LISTA WISEPLAY",
+"image": "https://i.imgur.com/ApcbwHZ.png",
+"url": "https://github.com/crecio-358/Test/blob/main/pruebam3u1"
+}
+],
+"stations": [
+{
+"name": "w3ubin.tumblr.com",
+"image": "https://leopard.hosting.pecon.us/dl/erkox/wb.gif",
+"url": "https://w3ubin.tumblr.com",
+"info": "Other Playlists/Listas W3U",
+"embed": "true",
+"webviewType": "chrome",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+}
+]
+}
