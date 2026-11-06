@@ -3,7 +3,7 @@
 "author": "w3ubin.tumblr.com",
 "parental": "true",
 "image": "https://i.imgur.com/ApcbwHZ.png",
-"url": "https://box.xtemus.com/?playlist=u256y454p21596x2",
+"url": "https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/pruebaw3u2.w3u",
 "info": "w3ubin.tumblr.com",
 "groups": [
 {
@@ -12,4 +12,16 @@
 "url": "https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/pruebam3u1"
 }
 ],
+"stations": [
+{
+"name": "w3ubin.tumblr.com",
+"image": "https://leopard.hosting.pecon.us/dl/erkox/wb.gif",
+"url": "https://w3ubin.tumblr.com",
+"info": "Other Playlists/Listas W3U",
+"embed": "true",
+"webviewType": "chrome",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+}
+]
 }
